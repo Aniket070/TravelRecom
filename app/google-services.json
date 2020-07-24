@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "490030917534",
+    "firebase_url": "https://travelrecom.firebaseio.com",
+    "project_id": "travelrecom",
+    "storage_bucket": "travelrecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490030917534:android:32d9aa8dab24d71d38588f",
+        "android_client_info": {
+          "package_name": "com.example.travelrecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490030917534-ndc9n8sth7ln225j6rg5a62s6uad9scn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelrecom",
+            "certificate_hash": "d59adc99fcbd7b54f7621376fe90ddaccc922369"
+          }
+        },
+        {
+          "client_id": "490030917534-t2a5k4lbdigbsgcus672lomqbc3lsi8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUxy4QZBujiqY2CRR3xwdTlxfzVUziURQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490030917534-t2a5k4lbdigbsgcus672lomqbc3lsi8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
