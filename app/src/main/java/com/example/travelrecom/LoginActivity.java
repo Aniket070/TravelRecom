@@ -27,7 +27,7 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
         fAuth = FirebaseAuth.getInstance();
-        // if the user has already logged in, they will be directed to the main page directly.
+        // if the user has already logged in, they will be directed to the main page directly
         if(fAuth.getCurrentUser() != null ){
             startActivity(new Intent(getApplicationContext(),MainActivity.class));
             Toast.makeText(LoginActivity.this,"Welcome Back ! ",Toast.LENGTH_SHORT).show();
